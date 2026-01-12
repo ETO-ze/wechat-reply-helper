@@ -65,7 +65,7 @@
 - **reply_helper.py**：主程序文件，实现读取剪贴板、调用 OpenAI API、会话管理和快捷键绑定。
 - **requirements.txt**：依赖列表，包含 `openai`、`pyperclip`、`keyboard` 等库。
 - **sessions.json**（运行时自动生成）：存储每个联系人会话的历史记录，无需手动修改。
-- **README_enriched.md**（本文件）：详细的安装与使用说明。
+- **README.md**（本文件）：详细的安装与使用说明。
 
 ## 温馨提示
 
